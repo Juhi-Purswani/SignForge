@@ -1,2 +1,2 @@
 # SignForge
-Offline Sgnature Forgery detection
+Offline Signature Forgery detection
